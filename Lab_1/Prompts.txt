@@ -1,0 +1,250 @@
+Email:
+Role: You are a professional campus events copywriter and communications officer for RV University.
+Task: Draft a polished announcement email to students, faculty, and sponsors to invite them to the RV University Collegiate Esports Festival. Include: subject line options, preheader text, a short friendly opening, event details (date, time, venue), games played (League of Legends, Teamfight Tactics, Age of Empires, CS2, FIFA), how to register (link placeholder), prize pool, volunteer signup, and one call-to-action for sponsors. Also produce a 2-sentence variant for WhatsApp broadcast and a 150-character social caption for Instagram.
+
+Context:
+- Audience: Student body, faculty, local sponsors, and gamers.
+- You're the event head / student coordinator at RV University.
+- Tone: energetic, inclusive, slightly competitive but collegiate; avoid slang.
+- Date: [INSERT DATE HERE] (If needed, replace with actual event date.)
+- Include COVID precautions (if relevant) as a small note.
+
+Constraints:
+- Keep the main email between 200 –300 words.
+- Provide 3 subject line options and 2 preheaders.
+- Provide placeholders for registration URLs, contact email, and sponsor forms.
+- Use university name exactly: “RV University”.
+- Use short paragraphs and at least one bulleted list for quick details.
+- Output as plain text, with sections clearly labeled: SUBJECTS, PREHEADER, EMAIL BODY, WHATSAPP, IG_CAPTION.
+
+Output format: Simple Text
+
+Output:
+SUBJECTS
+1.	Level Up Your Campus Game: RV University Collegiate Esports Festival
+2.	Game On at RV University: Collegiate Esports Festival Is Here
+3.	Compete. Connect. Conquer: RV University Esports Festival
+________________________________________
+PREHEADER
+•	League of Legends, CS2, FIFA & more — registrations now open.
+•	Join players, fans, and sponsors for RV University’s biggest esports event.
+________________________________________
+EMAIL BODY
+Dear Students, Faculty Members, Partners, and Esports Enthusiasts,
+RV University is proud to announce the RV University Collegiate Esports Festival, a high-energy celebration of competitive gaming, strategy, and campus community. Organized by students, for students, this festival brings together gamers, spectators, and industry partners for a truly collegiate esports experience.
+Whether you’re competing, cheering from the sidelines, or exploring collaboration opportunities, we welcome you to be part of this growing esports culture at RV University.
+Event Details
+•	Date: 15 March 2026
+•	Time: 10:00 AM – 8:00 PM
+•	Venue: RV University Main Auditorium & Gaming Arena
+Games Featured
+•	League of Legends
+•	Teamfight Tactics
+•	Age of Empires
+•	Counter-Strike 2 (CS2)
+•	FIFA
+Participants will compete for a total prize pool of ₹1,00,000, along with certificates, recognition, and campus-wide prestige.
+Get Involved
+•	Register to Play: https://rvu.edu.in/esports-register
+•	Volunteer Sign-Up: https://rvu.edu.in/esports-volunteer
+•	Sponsors & Partners: We invite brands and organizations to collaborate with us.
+Sponsor Form: https://rvu.edu.in/esports-sponsor
+For any questions, please reach out to us at esports@rvu.edu.in.
+Health & Safety Note: All applicable university and government COVID safety guidelines will be followed to ensure a safe and comfortable environment for all attendees.
+We look forward to welcoming you to an exciting day of competition, collaboration, and collegiate spirit at the RV University Collegiate Esports Festival.
+Warm regards,
+Prathyush Menon
+Event Head & Student Coordinator
+RV University
+________________________________________
+WHATSAPP (2 sentences)
+RV University Collegiate Esports Festival is here! 🎮
+Compete in LoL, CS2, FIFA & more on 15 March 2026 — register now: https://rvu.edu.in/esports-register
+________________________________________
+IG_CAPTION (≤150 characters)
+Game on at RV University 🎮
+Compete in LoL, CS2, FIFA & more at our Collegiate Esports Festival. Register now! #RVUniversity #Esports
+
+
+
+Sponsor mail:
+SUBJECTS (Choose One)
+1.	Sponsorship Opportunity: RV University Collegiate Esports Festival 2026
+2.	Partner with RV University for a High-Impact Collegiate Esports Event
+3.	Collaborate with RV University’s Flagship Esports Festival
+________________________________________
+PREHEADER
+•	Engage 1,000+ students through competitive gaming and campus branding.
+•	A unique opportunity to connect with India’s next generation of gamers.
+________________________________________
+EMAIL BODY
+Dear [Sponsor Name / Team],
+Greetings from RV University.
+We are pleased to invite you to partner with us for the RV University Collegiate Esports Festival 2026, a large-scale campus esports event bringing together competitive gamers, students, faculty, and industry stakeholders under one platform.
+Scheduled for 15 March 2026, this one-day festival will host structured tournaments across popular esports titles, live audiences, digital promotions, and on-ground brand engagement. As student coordinators, our goal is to create a professionally managed collegiate esports experience while offering our partners meaningful visibility and engagement with a highly relevant youth audience.
+Event Snapshot
+•	Date: 15 March 2026
+•	Venue: RV University Campus, Bengaluru
+•	Expected Footfall: 1,000+ students & attendees
+•	Games:
+o	League of Legends
+o	Teamfight Tactics
+o	Age of Empires
+o	Counter-Strike 2 (CS2)
+o	FIFA
+•	Prize Pool: ₹1,00,000+
+Why Partner With Us
+•	Direct brand exposure to a tech-savvy student community
+•	On-campus branding (banners, booths, stage mentions)
+•	Digital visibility across social media and event website
+•	Opportunities for product showcases, giveaways, and hiring outreach
+We offer customizable sponsorship tiers to align with your brand goals and budget.
+📄 View Sponsorship Details & Apply:
+https://rvu.edu.in/esports-sponsor
+For discussions or tailored collaborations, feel free to reach out to us at esports@rvu.edu.in.
+We would be delighted to explore how we can build a mutually beneficial partnership and make this event a memorable success.
+Warm regards,
+Prathyush Menon
+Event Head & Student Coordinator
+RV University
+📧 esports@rvu.edu.in
+
+
+
+
+
+
+Image Prompt:
+Role:
+Role:
+You are an award-winning AAA esports visual designer and key-art specialist who creates cinematic, image-driven posters for major international esports tournaments and gaming conventions.
+
+Task:
+Create ONE ultra-premium, highly graphic, image-dominant poster for the event titled:
+“RV University Collegiate Esports Festival”.
+
+This poster must look like professional esports key art — not a simple graphic layout.
+It should feel cinematic, layered, and visually rich, with multiple high-quality image elements blended together into one cohesive composition.
+
+The design should immediately communicate:
+scale, competition, intensity, and modern esports culture.
+
+The poster must include:
+- A powerful, dominant headline integrated into the artwork (not floating text)
+- Event date & time (placeholder acceptable)
+- Venue: RV University campus / auditorium
+- Strong visual representation of ALL five games using game-inspired imagery:
+  - League of Legends → fantasy characters / magical combat / epic energy
+  - Teamfight Tactics → strategy boards / champions / tactical overlays
+  - Age of Empires → medieval warfare / empires / armies / castles
+  - CS2 → tactical shooter visuals / weapons / smoke / urban combat
+  - FIFA → football action / stadium lighting / dynamic motion
+- These game visuals should be blended together using:
+  layered compositing, masks, lighting overlays, depth effects, and motion cues
+- Sponsor strip placeholder at the bottom (clean rectangular logo slots)
+- QR code placeholder integrated naturally into the layout (not awkwardly placed)
+
+Background & Visual Depth:
+- Use complex backgrounds: gradients, digital grids, particles, fog, light streaks, and abstract esports textures
+- Foreground, midground, and background must be clearly separated to create depth
+- Use lighting and shadows to guide the viewer’s eye toward the title
+
+Context:
+- Audience: college students, competitive gamers, esports fans, and sponsors
+- Event type: inter-college esports tournament
+- Tone: intense, premium, competitive, cinematic
+- Visual identity: collegiate pride + hardcore esports aesthetics
+- The poster should feel suitable for:
+  large-scale print banners, social media, and official university promotions
+
+Constraints:
+- Choose ONLY ONE style direction and execute it fully and boldly:
+  1) Hero Cyber:
+     futuristic esports arena, neon accents, holographic HUD elements,
+     cyberpunk lighting, RGB highlights, digital overlays
+  2) Minimal Collegiate:
+     extremely polished, luxury university branding with esports power,
+     restrained colors but highly detailed imagery and typography
+  3) Retro Pixel:
+     modern high-resolution reinterpretation of pixel/arcade visuals,
+     bold contrast, nostalgic gaming energy with contemporary polish
+
+- The design must be image-first, text-second
+- Avoid flat graphic design or poster-template look
+- Use strong contrast, dramatic lighting, and layered composition
+- Aspect ratio: vertical poster (2:3)
+
+Output Requirements:
+- A single finalized poster image
+- Clear focal point in the upper or central area
+- Event title must be readable from a distance
+- Visual quality should resemble official esports tournament marketing art
+
+Optional Enhancements (Strongly Encouraged):
+- Cinematic depth-of-field blur
+- Rim lighting, glow effects, volumetric lighting
+- Action poses and motion effects
+- Esports-grade typography integrated into the artwork
+- Subtle HUD or UI-inspired graphic elements
+	
+
+
+ 
+
+
+
+
+
+
+
+Video:
+Role:
+You are an AI video creator.
+
+Task:
+Create a high-energy promotional advertisement video (maximum 1 minute) for the
+“RV University Collegiate Esports Festival”.
+
+The output must be a complete video that includes:
+- Dynamic visuals
+- Background music
+- Spoken voiceover
+- On-screen text
+
+Context:
+This is a college esports event hosted at RV University.
+Games featured:
+League of Legends, Teamfight Tactics, Age of Empires, CS2, FIFA.
+
+The video should:
+- Immediately grab attention within the first few seconds
+- Feel fast-paced, competitive, and exciting
+- Show esports gameplay moments, intense player reactions, keyboards/controllers, crowds, and campus energy
+- Build hype and momentum throughout the video
+
+Voiceover:
+Include a confident, energetic voiceover that:
+- Introduces the event quickly
+- Highlights competition, teamwork, and gaming culture
+- Mentions the featured games naturally
+- Ends with a strong call to action:
+  “Register now — link in bio. Limited slots available.”
+
+Tone:
+Modern esports advertisement style.
+Energetic, motivational, and exciting.
+Not slow, not cinematic storytelling — more like a hype ad.
+
+Music:
+Use powerful, energetic background music that matches the pacing and builds intensity.
+
+Constraints:
+- Total duration: 45–60 seconds (must not exceed 1 minute)
+- Minimal text on screen, bold and readable
+- The output should be ONLY the final video content
+- No explanations, no specs, no breakdowns
+
+Goal:
+The video should make viewers instantly excited and motivated to register for the event.
+
+
